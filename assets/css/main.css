@@ -11227,6 +11227,11 @@ only screen and (min-width: 576px) and (max-width: 767px) {
   z-index: -1;
 }
 
+.tp-brand-3-thumb {
+  text-align: center;
+  height: 100%;
+}
+
 .tp-brand-3-thumb img {
   object-fit: cover;
 }
